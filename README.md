@@ -16,5 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-State ManageMent : Bloc Archiecture <br>
+State Management : Bloc Archiecture <br>
 Local Db : Hive 
