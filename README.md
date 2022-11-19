@@ -19,5 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 State Management : Bloc Archiecture <br>
 Local Db : Hive 
 
+<img src="screenshots/a.png" width="100" />
+
 
 ![](screenshots/a.png) ![](screenshots/b.png) ![](screenshots/c.png) ![](screenshots/d.png)
