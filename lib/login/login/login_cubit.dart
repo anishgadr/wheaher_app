@@ -10,8 +10,10 @@ class LoginCubit extends Cubit<LoginState> {
   void login(String email, String password) async {
     emit(Loading());
 
-    if (email == "123456" && password == "123456") {
+    if (email == "testapp@google.com" && password == "Test@123456") {
       emit(Loaded("success"));
+    }else{
+       emit(Error("error"));
     }
   }
 }
